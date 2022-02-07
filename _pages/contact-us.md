@@ -3,4 +3,4 @@ layout: page
 title: Contact Us
 ---
 
-Contact Us on abc@example.com
+Contact Us via the form provided on our homepage. 
