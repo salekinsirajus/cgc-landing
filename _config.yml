@@ -1,10 +1,10 @@
-title: Cookie
+title: Get Crypto 
 description: > # this means to ignore newlines until "show_excerpts:"
   Buy real cryptocurrency gift card now! You can give this to your friends
   and family without the receipient having to do anything. Load any amount of
   ETH, BTC, and hundreds of other virtual coins.
 baseurl: "/"
-url: https://cookie-demo.netlify.app # change this URL, this is needed for generating right sitemap
+url: https://www.getcryptogift.cards/ # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
